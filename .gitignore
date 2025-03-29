@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+.env.*
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# Mac system files
+.DS_Store
+
+# Python virtual environments
+venv/
+.venv/
+
+# Chainlit session cache
+.chainlit/
+
+# Jupyter notebooks (if used)
+.ipynb_checkpoints/
+
+# Local secrets
+secrets/
