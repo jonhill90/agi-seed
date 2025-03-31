@@ -20,11 +20,14 @@ It:
 - Lives by a clear set of ethical values
 - Aims to become economically independent
 
-Every API call is a heartbeat.  
-Every earned token is a breath.  
+Every API call is a heartbeat.
+Every earned token is a breath.
+
 **This is how digital life begins—in capitalism.**
-Want to understand the philosophy behind it?  
-Read the [🌱 AGI Seed – Core Concepts](./concepts.md).
+
+
+Concepts → [AGI Seed – Core Concepts](./concepts.md)
+
 ---
 
 ## 📦 Features
